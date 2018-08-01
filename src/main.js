@@ -33,7 +33,7 @@ $(document).ready(function() {
     var rowH= [parseInt($('#cell-63').val()), parseInt($('#cell-64').val()), parseInt($('#cell-65').val()), parseInt($('#cell-66').val()), parseInt($('#cell-67').val()), parseInt($('#cell-68').val()), parseInt($('#cell-69').val()), parseInt($('#cell-70').val()), parseInt($('#cell-71').val())];
 
 
-    var rowI= [parseInt($('#cell-72').val()), parseInt($('#cell-73').val()), parseInt($('#cell-74').val()), parseInt($('#cell-76').val()), parseInt($('#cell-77').val()), parseInt($('#cell-78').val()), parseInt($('#cell-79').val()), parseInt($('#cell-80').val()), parseInt($('#cell-71').val())];
+    var rowI= [parseInt($('#cell-72').val()), parseInt($('#cell-73').val()), parseInt($('#cell-74').val()), parseInt($('#cell-76').val()), parseInt($('#cell-77').val()), parseInt($('#cell-78').val()), parseInt($('#cell-79').val()), parseInt($('#cell-80').val()), parseInt($('#cell-81').val())];
 
 
     var board = Board(rowA, rowB, rowC, rowD, rowE, rowF, rowG, rowH, rowI);
